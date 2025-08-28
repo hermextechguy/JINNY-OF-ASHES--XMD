@@ -1,3 +1,4 @@
+![IMG-20250820-WA0068](https://github.com/user-attachments/assets/646c9749-3ec7-4deb-829c-fa50a22ebd23)
 # JINNY-OF-ASHES--XMD
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
